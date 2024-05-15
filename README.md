@@ -62,8 +62,7 @@ Before using this project, ensure you meet the following prerequisites:
 5. Retrieve relevant information from uploaded documents.
 
 ## Demo
-
-
+https://github.com/AnishMachamasi/AI-Doc-Companion/assets/98002255/aff9140c-bcf3-438b-a9d1-745ed3daab27
 
 ## Contributions
 Contributions are welcome! Feel free to submit pull requests or raise issues for any improvements or features.
