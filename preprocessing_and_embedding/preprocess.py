@@ -35,6 +35,4 @@ def restructure_chunks(chunks, fileName):
         }
         docs.append(document)
 
-    print(docs)
-
     return docs
